@@ -19,7 +19,7 @@ ${ROOT}
 |-- data
 ```
 
-* `data` contains two atlases in nii and the corresponding label in txt.
+* `data` contains two atlases in nii and nii.gz format and the corresponding label table in txt.
 
 ## Reference  
 
