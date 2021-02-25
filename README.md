@@ -7,6 +7,7 @@
 In this repo, We present an atlas of brain arterial territories based on lesion distributions in 1,298 acute stroke patients. The atlas that covers supra- and infra-tentorial regions and contains hierarchical segmentation levels created by a fusion of vascular and classical anatomical criteria. This deformable 3D digital atlas allows automatic and highly reproducible exploration of large-scaled data.
 
 
+## Data
 
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
