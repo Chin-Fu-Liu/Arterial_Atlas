@@ -8,7 +8,7 @@ In this repo, We present an atlas of brain arterial territories based on lesion 
 
 
 <p align="middle">
-    <img src="assets/atlas_pic.", width="780" height="240">
+    <img src="assets/atlas_pic.png", width="780" height="240">
 </p>
 
 
