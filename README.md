@@ -12,6 +12,7 @@ The `${ROOT}` is described as below.
 ```
 ${ROOT}
 |-- data
+```
 
 * `data` contains two atlases in nii and the corresponding label in txt.
 
