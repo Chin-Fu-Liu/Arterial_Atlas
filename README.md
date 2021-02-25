@@ -1,6 +1,6 @@
 
 
-# Arterial_Atlas
+# Arterial Atlas:
 
 ## Introduction
 
