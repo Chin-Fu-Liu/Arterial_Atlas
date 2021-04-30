@@ -35,5 +35,5 @@ superior cerebellar left	27	SCL	7	VBL	VB	Posterior
 superior cerebellar right	28	SCR	8	VBR	VB	Posterior
 inferior cerebellar left	29	ICL	7	VBL	VB	Posterior
 inferior cerebellar right	30	ICR	8	VBR	VB	Posterior
-lateral ventricle left	31	LVR	9	LVR	LV	Ventricle
-lateral ventricle right	32	LVL	10	LVR	LV	Ventricle
+lateral ventricle left	31	LVL	9	LVL	LV	Ventricle
+lateral ventricle right	32	LVR	10	LVR	LV	Ventricle
