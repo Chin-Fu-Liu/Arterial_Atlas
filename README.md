@@ -23,6 +23,9 @@ ${ROOT}
 
 ## Reference  
 
+## Note
+Our Atlas is based on JHU_MNI_SS (181x217x181). For compatibility with the MNI152 template from FSL (182x218x182), one can either “zero pad” the Atlas to the last dimension or “crop” the last dimension of MNI152-FSL. The JHU_MNI_SS (original and “MNI152-FSL compatible”) is downloadable from https://github.com/muschellij2/Eve_Atlas
+
 ## License 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
