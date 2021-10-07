@@ -24,9 +24,9 @@ ${ROOT}
 
 * `data` contains two atlases in nii format and the corresponding label table in txt.
 
-* Images under Atlas folder are compatible with JHU_MNI_SS (181x217x181)
+* Images in “Atlas” folder are in MNI coordinates in 181x217x181 mm^3 
 
-* Images under Atlas_182 folder are compatible with JHU_MNI_SS (182x218x182)
+* Images in “Atlas_182” folder in MNI coordinates in 182x218x182 mm3 (compatible with FSL) 
 
 * Image descriptions:
 
