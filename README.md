@@ -30,7 +30,8 @@ ${ROOT}
 
 * Image descriptions:
 
-ArterialAtlasLabels.txt: the “lookup table”. It contains the labels (descriptive and acronyms) for the regions defined in ArterialAtlas.nii and ArterialAtlas_level2.nii.     
+ArterialAtlasLabels.txt: the “lookup table”. 
+It contains the labels (descriptive and acronyms) for the regions defined in ArterialAtlas.nii and ArterialAtlas_level2.nii.     
 
 ArterialAtlas.nii: Image defining 30 arterial territories and ventricles. 
 The intensities of the parcels correspond to their labels IDs, listed in the lookup table “ArterialAtlasLabels.txt 
