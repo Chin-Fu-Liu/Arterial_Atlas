@@ -8,7 +8,7 @@ We present an atlas of brain arterial territories based on the distribution of a
 
 
 <p align="middle">
-    <img src="assets/atlas_pic.png", width="600" height="400">
+    <img src="assets/atlas_pic.png", width="600" height="500">
 </p>
 
 
