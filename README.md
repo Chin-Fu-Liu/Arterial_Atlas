@@ -42,7 +42,7 @@ The intensities of the parcels correspond to their labels, listed in the Arteria
 ProbArterialAtlas_average.nii: 4D image of the arterial territory maps, calculated by averaging of lesion masks. 
 Each dimension represents the probability of a voxel to belong to a certain vascular territory (ACA, MCA, PCA, VB, respectively).    
 
-ProbArterialAtlas_BMM.nii: 4D image of the arterial territory maps, calculated by the BMM method. 
+ProbArterialAtlas_BMM.nii: 4D image of the arterial territory maps, calculated by the Bernoulli Mixture Model(BMM) method. 
 Each dimension represents the probability of a voxel to belong to a certain vascular territory (ACA, MCA, PCA, VB, respectively). 
 
 BorderZone_ProbAve.nii: 4D image showing the ratio of average probability maps; 
