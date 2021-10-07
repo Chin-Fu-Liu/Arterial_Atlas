@@ -20,6 +20,7 @@ ${ROOT}
 |-- data
     |-- Atlas
     |-- Atlas_182
+``` 
 
 * `data` contains two atlases in nii format and the corresponding label table in txt.
 
