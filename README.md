@@ -39,6 +39,12 @@ The intensities of the parcels correspond to their labels IDs, listed in the loo
 ArterialAtlas_level2.nii: The combination of ArterialAtlas.nii parcels in 4 major territories (ACA, MCA, PCA, VB). 
 The intensities of the parcels correspond to their labels, listed in the ArterialAtlasLabels.txt     
 
+Due to file storage memory issue, the following images were uploaded on our page in the NITRC website.  
+
+https://www.nitrc.org/projects/arterialatlas
+
+We highly recommend to download all other probability maps from NITRC. 
+
 ProbArterialAtlas_average.nii: 4D image of the arterial territory maps, calculated by averaging of lesion masks. 
 Each dimension represents the probability of a voxel to belong to a certain vascular territory (ACA, MCA, PCA, VB, respectively).    
 
