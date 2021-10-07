@@ -13,6 +13,7 @@ We present an atlas of brain arterial territories based on the distribution of a
 
 
 ### Root
+
 The `${ROOT}` is described as below.
 ```
 ${ROOT}
@@ -23,6 +24,7 @@ ${ROOT}
 * `data` contains two atlases in nii format and the corresponding label table in txt.
 
 * Images under Atlas folder are compatible with JHU_MNI_SS (181x217x181)
+
 * Images under Atlas_182 folder are compatible with JHU_MNI_SS (182x218x182)
 
 * Image descriptions:
