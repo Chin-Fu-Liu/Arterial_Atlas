@@ -26,7 +26,7 @@ ${ROOT}
 
 * Images in “Atlas” folder are in MNI coordinates in 181x217x181 mm^3 
 
-* Images in “Atlas_182” folder in MNI coordinates in 182x218x182 mm3 (compatible with FSL) 
+* Images in “Atlas_182” folder in MNI coordinates in 182x218x182 mm^3 (compatible with FSL) 
 
 * Image descriptions:
 
