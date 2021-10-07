@@ -47,6 +47,7 @@ first dimension is MCA / ACA, second dimension is MCA / PCA.
 TerritoryVoxels_BMM.nii: 3D image showing the assignment of voxels to major vascular territories, calculated through the variation in BMM µmax. 
 The image intensities are: 1. ACA, 2. MCA, 3. PCA, 4. voxels attributed to more than one vascular territory, 5. voxels not attributed to any vascular territory. 
 
+
 ## Reference  
 
 ## Note
